@@ -1,0 +1,15 @@
+---
+layout: page
+title: Announcements
+nav_exclude: true
+description: A feed containing all of the class announcements.
+---
+
+# Announcements
+
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
+
+<!-- Not Using this, if you want to use, change the file type from txt to md -->
