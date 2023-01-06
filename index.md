@@ -99,6 +99,11 @@ You need to use any of these LaTeX formats for creating your Project Final Repor
 - [IEEE (Bibtex Version) "[Recommended]" (Copy The Project to Your Overleaf)](https://www.overleaf.com/read/vshtnzwrbnzj)
 - or [IEEE (Bibitem Version) "[For those who are new in LaTeX]"](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/conferences/Conference-LaTeX-template_7-9-18.zip)
 
+### 6. Final Project Update
+
+Once the final project gets selected, there will be weekly meetings with the TA, where updates of your project will be taken. As well as, the TA will help you to structure your project and report further.
+You need to attend the meetings mandatorily.
+
 ### Submitting coursework
 
 **Submissions**: All coursework are submitted via
