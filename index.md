@@ -51,6 +51,12 @@ Each class is divided into two parts:
 1. **Discussion** (45 minutes): there is a student panel discussion on the
    required readings posted on the [calendar](/calendar). -->
 
+## Recommended Books
+
+- [A Primer on Scientific Programming with Python](../resources/1._H.P.L._-_A_Primer_on_Scientific_Programming_with_Python.pdf)
+- [Modeling and Simulation in Python](../resources/2._Allen_B._Downey_-_Modeling_and_simulation_in_Python.pdf)
+- [Introduction to Computation and Programming Using Python](../resources/3._John_V._Guttag_-_Introduction_to_Computation_and_Programming_Using_Python__With_Application_to_Understanding_Data_2016_The_MIT_Press.pdf)
+
 ## Coursework
 
 Your grade is based on few activities:
