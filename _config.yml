@@ -22,7 +22,7 @@ markdown: kramdown
 logo: "/assets/images/bracu_logo.png"
 favicon_ico: "/assets/images/bracu_logo.ico"
 
-url: https://cse474-bracu.github.io/fall2022
+url: https://cse474-bracu.github.io/
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
