@@ -53,9 +53,9 @@ Each class is divided into two parts:
 
 ## Recommended Books
 
-- [A Primer on Scientific Programming with Python](../resources/1._H.P.L._-_A_Primer_on_Scientific_Programming_with_Python.pdf)
-- [Modeling and Simulation in Python](../resources/2._Allen_B._Downey_-_Modeling_and_simulation_in_Python.pdf)
-- [Introduction to Computation and Programming Using Python](../resources/3._John_V._Guttag_-_Introduction_to_Computation_and_Programming_Using_Python__With_Application_to_Understanding_Data_2016_The_MIT_Press.pdf)
+- [A Primer on Scientific Programming with Python - Hans Petter Langtangen](https://github.com/cse474-bracu/fall2022/blob/main/resources/1._H.P.L._-_A_Primer_on_Scientific_Programming_with_Python.pdf)
+- [Modeling and Simulation in Python - Allen B. Downey](https://github.com/cse474-bracu/fall2022/blob/main/resources/2._Allen_B._Downey_-_Modeling_and_simulation_in_Python.pdf)
+- [Introduction to Computation and Programming Using Python - John V. Guttag](https://github.com/cse474-bracu/fall2022/blob/main/resources/3._John_V._Guttag_-_Introduction_to_Computation_and_Programming_Using_Python__With_Application_to_Understanding_Data_2016_The_MIT_Press.pdf)
 
 ## Coursework
 
